@@ -1,0 +1,71 @@
+ID,Timestamp,Gender,Ethnicity,Red,Red:Good_or_Bad,Green,Green:Good_or_Bad,Yellow,Yellow:Good_or_Bad,Orange,Orange:Good_or_Bad,Light_Blue,Light_Blue:Good_or_Bad,Dark_Blue,Dark_Blue:Good_or_Bad,Purple,Purple:Good_or_Bad,Pink,Pink:Good_or_Bad,Black,Black:Good_or_Bad,White,White:Good_or_Bad
+1,2/22/2021 11:50,Female,White,Angry,Bad,Optimistic,Good,Happy,Good,Anxious,Bad,Calm,Good,Calm,Good,Optimistic,Good,Excited,Good,Anxious,Good,Calm,Good
+2,2/22/2021 11:51,Female,White,Angry,Bad,Calm,Good,Happy,Good,Anxious,Bad,Optimistic,Good,Sad,Bad,Other,Bad,Excited,Good,Other,Bad,Optimistic,Good
+3,2/22/2021 11:51,Female,White,Excited,Neither,Optimistic,Good,Happy,Good,Angry,Neither,Happy,Good,Anxious,Neither,Scared,Neither,Happy,Good,Other,Neither,Other,Neither
+4,2/22/2021 11:52,Female,White,Angry,Good,Calm,Good,Happy,Good,Excited,Good,Calm,Good,Sad,Good,Anxious,Good,Calm,Good,Scared,Good,Calm,Good
+5,2/22/2021 11:53,Female,White,Other,Bad,Calm,Good,Happy,Good,Happy,Good,Happy,Good,Calm,Good,Optimistic,Good,Happy,Good,Other,Neither,Other,Neither
+6,2/22/2021 11:53,Female,Hispanic or Latino,Anxious,Bad,Happy,Good,Excited,Good,Optimistic,Good,Calm,Good,Angry,Bad,Sad,Neither,Optimistic,Good,Anxious,Bad,Optimistic,Good
+7,2/22/2021 11:55,Male,White,Angry,Bad,Excited,Good,Optimistic,Good,Anxious,Neither,Calm,Neither,Scared,Neither,Calm,Neither,Happy,Good,Sad,Bad,Calm,Neither
+8,2/22/2021 11:58,Male,Hispanic or Latino,Angry,Good,Optimistic,Good,Happy,Good,Angry,Neither,Happy,Good,Other,Neither,Excited,Good,Optimistic,Good,Calm,Good,Other,Neither
+9,2/22/2021 11:58,Female,White,Angry,Bad,Happy,Good,Optimistic,Good,Anxious,Neither,Calm,Good,Sad,Bad,Other,Neither,Excited,Good,Sad,Bad,Other,Neither
+10,2/22/2021 12:02,Male,Hispanic or Latino,Excited,Good,Other,Bad,Anxious,Neither,Calm,Good,Happy,Good,Excited,Good,Excited,Good,Calm,Good,Excited,Good,Scared,Bad
+11,2/22/2021 12:03,Female,Asian,Scared,Bad,Calm,Bad,Happy,Good,Anxious,Neither,Calm,Good,Scared,Bad,Excited,Good,Happy,Good,Anxious,Bad,Other,Neither
+12,2/22/2021 12:05,Female,White,Angry,Neither,Calm,Good,Anxious,Neither,Excited,Good,Calm,Neither,Sad,Bad,Optimistic,Good,Happy,Good,Other,Neither,Optimistic,Good
+13,2/22/2021 12:06,Male,Hispanic or Latino,Angry,Bad,Optimistic,Good,Other,Neither,Other,Neither,Happy,Good,Other,Neither,Other,Neither,Other,Neither,Scared,Neither,Optimistic,Neither
+14,2/22/2021 12:09,Male,White,Angry,Bad,Calm,Good,Happy,Good,Anxious,Bad,Optimistic,Good,Sad,Bad,Excited,Good,Other,Good,Other,Good,Scared,Bad
+15,2/22/2021 12:09,Female,Asian,Excited,Neither,Optimistic,Good,Calm,Good,Happy,Good,Happy,Neither,Scared,Bad,Anxious,Bad,Happy,Good,Scared,Bad,Calm,Good
+16,2/22/2021 12:13,Female,White,Angry,Neither,Optimistic,Good,Calm,Good,Anxious,Bad,Happy,Good,Sad,Neither,Calm,Neither,Optimistic,Good,Sad,Bad,Happy,Good
+17,2/22/2021 12:19,Female,Black or African American,Angry,Bad,Calm,Good,Optimistic,Good,Happy,Good,Calm,Good,Calm,Good,Anxious,Neither,Optimistic,Good,Other,Neither,Other,Neither
+18,2/22/2021 12:25,Female,White,Anxious,Bad,Other,Good,Excited,Neither,Other,Neither,Calm,Good,Other,Neither,Anxious,Bad,Happy,Good,Other,Neither,Calm,Neither
+19,2/22/2021 12:28,Female,White,Happy,Good,Happy,Good,Happy,Good,Happy,Good,Happy,Good,Happy,Good,Happy,Good,Happy,Good,Sad,Neither,Happy,Good
+20,2/22/2021 12:33,Female,White,Angry,Bad,Optimistic,Good,Happy,Good,Anxious,Neither,Calm,Good,Sad,Neither,Excited,Good,Optimistic,Neither,Scared,Neither,Other,Good
+21,2/22/2021 12:33,Female,White,Angry,Good,Calm,Good,Happy,Good,Excited,Good,Calm,Good,Sad,Good,Anxious,Good,Calm,Good,Scared,Good,Calm,Good
+22,2/22/2021 12:37,Male,White,Angry,Neither,Calm,Good,Happy,Good,Other,Good,Happy,Good,Happy,Good,Other,Good,Other,Neither,Calm,Good,Calm,Good
+23,2/22/2021 12:45,Female,White,Angry,Bad,Other,Neither,Happy,Good,Other,Bad,Calm,Good,Optimistic,Good,Excited,Good,Optimistic,Good,Anxious,Bad,Anxious,Bad
+24,2/22/2021 12:51,Female,Native Hawaiian or Other Pacific Islander,Angry,Bad,Calm,Good,Happy,Good,Anxious,Neither,Optimistic,Good,Sad,Bad,Excited,Good,Other,Good,Scared,Bad,Other,Neither
+25,2/22/2021 13:21,Female,White,Angry,Bad,Happy,Good,Optimistic,Good,Anxious,Neither,Calm,Good,Sad,Bad,Other,Neither,Excited,Good,Sad,Bad,Other,Neither
+26,2/22/2021 13:31,Female,Asian,Excited,Neither,Anxious,Neither,Calm,Good,Happy,Good,Calm,Good,Calm,Good,Other,Good,Other,Bad,Other,Good,Angry,Neither
+27,2/22/2021 13:47,Female,White,Angry,Neither,Calm,Good,Anxious,Neither,Happy,Good,Calm,Neither,Scared,Neither,Sad,Bad,Optimistic,Good,Sad,Bad,Other,Bad
+28,2/22/2021 14:32,Female,White,Angry,Bad,Excited,Good,Happy,Good,Excited,Good,Calm,Good,Scared,Bad,Calm,Good,Optimistic,Good,Other,Bad,Calm,Good
+29,2/22/2021 15:15,Female,White,Angry,Bad,Optimistic,Good,Happy,Good,Anxious,Bad,Calm,Good,Sad,Bad,Other,Good,Excited,Good,Anxious,Bad,Calm,Good
+30,2/22/2021 15:28,Male,Hispanic or Latino,Angry,Neither,Anxious,Good,Happy,Good,Optimistic,Good,Calm,Good,Sad,Bad,Optimistic,Good,Calm,Good,Scared,Bad,Other,Neither
+31,2/22/2021 15:46,Female,White,Angry,Good,Calm,Good,Happy,Good,Excited,Good,Calm,Good,Sad,Good,Anxious,Good,Calm,Good,Scared,Good,Calm,Good
+32,2/22/2021 16:37,Female,Asian,Angry,Bad,Happy,Good,Calm,Good,Anxious,Bad,Optimistic,Good,Calm,Good,Happy,Good,Happy,Good,Sad,Neither,Calm,Neither
+33,2/22/2021 17:17,Female,Asian,Other,Bad,Happy,Good,Optimistic,Neither,Excited,Neither,Calm,Good,Calm,Neither,Calm,Good,Happy,Good,Scared,Bad,Other,Neither
+34,2/22/2021 17:21,Female,White,Angry,Bad,Optimistic,Good,Happy,Good,Anxious,Bad,Calm,Good,Sad,Bad,Other,Good,Excited,Good,Anxious,Bad,Calm,Good
+35,2/22/2021 18:24,Female,White,Angry,Bad,Optimistic,Good,Happy,Good,Excited,Good,Calm,Good,Optimistic,Good,Excited,Good,Optimistic,Good,Anxious,Bad,Other,Good
+36,2/22/2021 18:36,Male,Black or African American,Angry,Bad,Optimistic,Good,Scared,Neither,Anxious,Bad,Calm,Good,Sad,Good,Excited,Good,Happy,Good,Other,Neither,Other,Neither
+37,2/22/2021 18:40,Female,Black or African American,Angry,Neither,Happy,Good,Calm,Neither,Anxious,Neither,Optimistic,Good,Sad,Neither,Optimistic,Neither,Happy,Good,Sad,Neither,Calm,Neither
+38,2/22/2021 19:18,Female,Asian,Angry,Bad,Other,Good,Excited,Good,Excited,Good,Optimistic,Good,Other,Good,Other,Good,Happy,Good,Other,Neither,Other,Neither
+39,2/22/2021 19:19,Male,White,Anxious,Bad,Optimistic,Good,Anxious,Neither,Anxious,Bad,Happy,Good,Calm,Good,Sad,Neither,Happy,Good,Sad,Neither,Anxious,Neither
+40,2/22/2021 20:29,Non-binary,White,Anxious,Bad,Calm,Good,Optimistic,Good,Excited,Good,Happy,Good,Calm,Good,Anxious,Bad,Sad,Bad,Calm,Good,Sad,Good
+41,2/22/2021 21:56,Male,White,Other,Neither,Calm,Good,Happy,Good,Other,Good,Optimistic,Bad,Calm,Good,Other,Good,Calm,Good,Sad,Bad,Other,Good
+42,2/22/2021 23:07,Female,Hispanic or Latino,Anxious,Bad,Happy,Good,Excited,Good,Optimistic,Good,Calm,Good,Angry,Bad,Sad,Neither,Optimistic,Good,Anxious,Bad,Optimistic,Good
+43,2/23/2021 0:26,Male,White,Excited,Good,Optimistic,Good,Happy,Neither,Happy,Good,Calm,Good,Calm,Good,Anxious,Neither,Happy,Neither,Sad,Bad,Calm,Good
+44,2/23/2021 2:00,Male,Asian,Angry,Bad,Other,Neither,Optimistic,Neither,Anxious,Bad,Calm,Good,Calm,Good,Optimistic,Good,Other,Good,Other,Neither,Anxious,Neither
+45,2/23/2021 2:40,Male,White,Excited,Neither,Happy,Good,Other,Neither,Happy,Good,Calm,Good,Anxious,Neither,Other,Neither,Sad,Bad,Scared,Bad,Other,Neither
+46,2/23/2021 9:04,Male,Asian,Other,Neither,Other,Neither,Optimistic,Good,Other,Neither,Other,Neither,Excited,Neither,Other,Neither,Other,Neither,Other,Neither,Other,Neither
+47,2/23/2021 9:26,Male,White,Angry,Neither,Other,Good,Optimistic,Good,Anxious,Neither,Happy,Good,Anxious,Good,Angry,Neither,Optimistic,Good,Calm,Good,Happy,Neither
+48,2/23/2021 9:46,Female,White,Excited,Good,Calm,Good,Happy,Good,Anxious,Neither,Optimistic,Good,Sad,Neither,Excited,Good,Happy,Good,Angry,Neither,Scared,Neither
+49,2/23/2021 12:29,Female,White,Excited,Neither,Calm,Good,Optimistic,Good,Happy,Good,Happy,Good,Calm,Good,Optimistic,Good,Optimistic,Good,Calm,Neither,Optimistic,Neither
+40,2/23/2021 15:10,Female,Asian,Angry,Bad,Calm,Good,Optimistic,Good,Anxious,Neither,Happy,Good,Sad,Neither,Optimistic,Neither,Happy,Good,Calm,Good,Optimistic,Good
+51,2/24/2021 2:47,Female,White,Angry,Neither,Optimistic,Good,Calm,Good,Anxious,Bad,Happy,Good,Sad,Neither,Calm,Neither,Optimistic,Good,Sad,Bad,Happy,Good
+52,2/24/2021 14:41,Female,Asian,Angry,Bad,Other,Bad,Optimistic,Good,Excited,Good,Calm,Good,Excited,Good,Other,Neither,Optimistic,Good,Scared,Bad,Calm,Good
+53,2/24/2021 16:34,Female,Asian,Anxious,Bad,Optimistic,Good,Calm,Good,Happy,Good,Calm,Good,Other,Neither,Happy,Good,Other,Good,Other,Good,Anxious,Neither
+54,2/24/2021 16:34,Female,White,Anxious,Bad,Anxious,Neither,Calm,Neither,Anxious,Bad,Calm,Good,Calm,Neither,Happy,Good,Happy,Bad,Other,Neither,Optimistic,Neither
+55,2/24/2021 16:47,Female,White,Excited,Neither,Optimistic,Good,Optimistic,Good,Excited,Neither,Optimistic,Good,Other,Neither,Happy,Good,Calm,Good,Other,Neither,Optimistic,Neither
+56,2/24/2021 17:45,Male,White,Anxious,Bad,Calm,Good,Happy,Good,Excited,Good,Optimistic,Good,Calm,Good,Happy,Good,Happy,Good,Scared,Bad,Calm,Good
+57,2/24/2021 17:45,Male,White,Excited,Bad,Calm,Good,Optimistic,Neither,Scared,Neither,Calm,Good,Calm,Good,Sad,Neither,Anxious,Bad,Anxious,Bad,Other,Neither
+58,2/24/2021 17:48,Female,Asian,Excited,Neither,Calm,Neither,Calm,Neither,Excited,Neither,Calm,Neither,Calm,Good,Anxious,Bad,Excited,Neither,Sad,Bad,Other,Neither
+59,2/24/2021 17:53,Male,Asian,Excited,Neither,Calm,Good,Happy,Good,Anxious,Bad,Optimistic,Good,Sad,Bad,Scared,Bad,Happy,Good,Scared,Bad,Other,Good
+60,2/24/2021 17:54,Male,Asian,Optimistic,Good,Calm,Good,Excited,Good,Happy,Good,Calm,Good,Anxious,Bad,Scared,Bad,Happy,Good,Angry,Bad,Other,Neither
+61,2/24/2021 17:58,Female,White,Angry,Bad,Calm,Good,Optimistic,Good,Excited,Good,Calm,Good,Calm,Good,Other,Neither,Optimistic,Good,Anxious,Neither,Calm,Good
+62,2/24/2021 18:04,Male,White,Excited,Neither,Calm,Good,Happy,Good,Excited,Good,Calm,Neither,Other,Good,Excited,Good,Happy,Good,Sad,Good,Calm,Neither
+63,2/24/2021 19:13,Female,White,Angry,Bad,Calm,Good,Happy,Good,Optimistic,Good,Calm,Good,Sad,Bad,Optimistic,Good,Happy,Good,Sad,Bad,Optimistic,Good
+64,2/24/2021 19:13,Male,Black or African American,Other,Neither,Happy,Good,Calm,Good,Calm,Good,Calm,Good,Other,Good,Other,Good,Other,Neither,Other,Neither,Other,Neither
+65,2/24/2021 19:24,Female,White,Angry,Bad,Optimistic,Good,Happy,Good,Excited,Good,Calm,Good,Sad,Bad,Sad,Neither,Optimistic,Neither,Scared,Bad,Other,Neither
+66,2/24/2021 20:21,Male,Black or African American,Excited,Good,Happy,Good,Optimistic,Good,Calm,Good,Excited,Good,Optimistic,Good,Excited,Good,Excited,Good,Calm,Good,Happy,Good
+67,2/25/2021 19:47,Female,Black or African American,Angry,Bad,Calm,Good,Optimistic,Good,Anxious,Bad,Calm,Good,Calm,Good,Excited,Good,Calm,Good,Sad,Neither,Happy,Good
+68,2/26/2021 11:57,Female,Asian,Anxious,Neither,Calm,Good,Optimistic,Good,Other,Neither,Calm,Good,Other,Good,Anxious,Neither,Happy,Good,Other,Neither,Other,Neither
+69,3/6/2021 18:56,Male,Asian,Angry,Bad,Optimistic,Good,Other,Neither,Happy,Neither,Calm,Good,Calm,Good,Anxious,Bad,Excited,Good,Sad,Bad,Calm,Good
+70,3/15/2021 19:06,Male,White,Angry,Bad,Happy,Good,Anxious,Bad,Excited,Good,Anxious,Bad,Calm,Good,Excited,Good,Other,Neither,Calm,Good,Other,Neither
